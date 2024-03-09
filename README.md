@@ -1,6 +1,6 @@
-# PyTorch Dataloading, Workload Profiling and Optimization
+# PyTorch Dataloader, Workload Profiling and Optimization
 
-This project provides hands-on experience with PyTorch Dataloading, profiling machine learning training workloads and optimizing system performance. The main focus is on using a Convolutional Neural Network (CNN) in PyTorch to classify images from the CIFAR10 dataset, specifically using the ResNet-18 model.
+This project provides hands-on experience with PyTorch Dataloader, profiling machine learning training workloads and optimizing system performance. The main focus is on using a Convolutional Neural Network (CNN) in PyTorch to classify images from the CIFAR10 dataset, specifically using the ResNet-18 model.
 
 ## Introduction
 
