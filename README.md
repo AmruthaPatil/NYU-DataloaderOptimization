@@ -77,3 +77,4 @@ This project provides a comprehensive understanding of profiling machine learnin
 - Incorporating batch normalization into the model architecture can lead to more stable and faster training.
 - Utilizing GPU resources is essential for achieving high-performance in deep learning tasks.
 
+Thanks for exploring this repository!

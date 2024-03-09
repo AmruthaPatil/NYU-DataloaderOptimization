@@ -11,6 +11,6 @@
 module purge
 
 singularity exec --nv \
-            --overlay /scratch/ap7982/pytorch-example/my_pytorch.ext3:ro \
+            --overlay /scratch/username/pytorch-example/my_pytorch.ext3:ro \
             /scratch/work/public/singularity/cuda11.6.124-cudnn8.4.0.27-devel-ubuntu20.04.4.sif\
-            /bin/bash -c "source /ext3/env.sh; cd /scratch/ap7982/lab2; python c1.py;"
+            /bin/bash -c "source /ext3/env.sh; cd /scratch/username/lab2; python c1.py;"
