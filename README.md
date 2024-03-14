@@ -41,9 +41,7 @@ In this project, we will explore the fundamental concepts of PyTorch's DataLoade
 
 To run the code, execute the submit shell scripts (C1_submit.sh to C7_submit.sh) in the High-Performance Computing (HPC) environment. Ensure that the PyTorch dependencies are installed (setting up GPU jobs, SLURM, conda, etc.).
 
-This project provides a comprehensive understanding of profiling machine learning workloads and optimizing system performance, essential for building efficient machine learning systems.
-
-## Summary of My Results
+## Summary of Results
 
 #### Data Loading and Training Times
 
