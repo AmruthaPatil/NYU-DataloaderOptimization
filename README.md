@@ -50,6 +50,8 @@ This project provides a comprehensive understanding of profiling machine learnin
 - Significant improvement in data-loading time with increasing number of workers, peaking at 4 workers.
 - Training time remains relatively stable across different worker configurations.
 
+![Image](image.png)
+
 #### Optimizer Performance
 
 - Adadelta optimizer showed the best overall performance in terms of training time and accuracy.
